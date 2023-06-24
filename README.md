@@ -2,17 +2,19 @@
 <h3 align="center">A longlife learner devoted primarely to Writing & Coding!</h3>
 <br>
 
-#### Maximum
+## My name is Martin =)
 
 <p> <em>Read the classics, then the classics, and finally, the classics.</em> </p>
 
 ### Learning
 
-- 🌱 Code speaking currently learning **JavaScript & Sass**
-- 💻 Want to learn: React, TS, NodeJS, Next.js
+- 🌱 **JavaScript & Sass**
 - 🎷 4 Times a week neighbor sleeptime disruptor — Nigthly Sax player
 - 🇩🇪 Täglicher Deutsch Studieren — A1
 - 📐 Revisiting Math from the ground up!
+
+### Want to learn
+- 💻 React, TS, NodeJS, Next.js
 
   ## Reach me
   

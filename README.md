@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hero Protagonist32</h1>
-<h3 align="center">A longlife learner devoted primarely to Writing & Coding!</h3>
+<h1 align="center">Hi 👋, I'm Martin</h1>
+<h3 align="center">I like learning stuff.</h3>
 <br>
 
-## My name is Martin :P
-
-Self-taught here an there. Former Lichess Puzzle addict :x  
+Self-taught here an there for various things. Former Lichess Puzzle addict :x  
 
 <p> <em>"Read the classics, then the classics, and finally, the classics."</em> </p>
 

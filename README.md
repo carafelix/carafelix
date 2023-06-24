@@ -4,7 +4,7 @@
 
 ## My name is Martin :P
 
-Self-taught here an there
+Self-taught here an there. Former Lichess Puzzle addict :x  
 
 <p> <em>"Read the classics, then the classics, and finally, the classics."</em> </p>
 

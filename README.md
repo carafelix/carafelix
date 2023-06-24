@@ -2,7 +2,7 @@
 <h3 align="center">I like learning stuff.</h3>
 <br>
 
-Self-taught here an there for various things. Former Lichess Puzzle addict :x  
+Self-taught here an there for various things. [Former Lichess Puzzle addict](https://lichess.org/@/veet) :x
 
 <p> <em>"Read the classics, then the classics, and finally, the classics."</em> </p>
 
@@ -20,6 +20,10 @@ Self-taught here an there for various things. Former Lichess Puzzle addict :x
   
 - 👨‍💻 Portafolio placeholder 🇨🇱
 - 📫 **heroprotagonist32@gmail.com**
+
+#### Depracated Obsession
+- [Gamecube Controller Enthusiast](https://www.instagram.com/veet_labs/)
+
 
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 <p align="center"> <a href="https://www.codewars.com/users/carafelix"> <img src="https://www.codewars.com/users/carafelix/badges/large"/> </a> </p>

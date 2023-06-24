@@ -3,7 +3,7 @@
 <br>
 <p>As the quote goes; <em>Read the classics, then the classics, and finally, the classics.</em> </p>
 
-- 🌱 Code speaking currently learning **JavaScript & React**
+- 🌱 Code speaking currently learning **JavaScript & Sass**
 - 🎷 4 times a week neighbor sleeptime disruptor — Sax player
 - 🇩🇪 Täglicher Deutsch Studieren — A1
 - 👨‍💻 Portafolio placeholder 🇨🇱

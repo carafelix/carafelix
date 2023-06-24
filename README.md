@@ -2,9 +2,9 @@
 <h3 align="center">A longlife learner devoted primarely to Writing & Coding!</h3>
 <br>
 
-## My name is Martin =)
+## My name is Martin :P
 
-<p> <em>Read the classics, then the classics, and finally, the classics.</em> </p>
+<p> <em>"Read the classics, then the classics, and finally, the classics."</em> </p>
 
 ### Learning
 

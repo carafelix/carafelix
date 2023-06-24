@@ -16,7 +16,7 @@
 ### Want to learn
 - 💻 React, TS, NodeJS, Next.js
 
-  ## Reach me
+## Reach me
   
 - 👨‍💻 Portafolio placeholder 🇨🇱
 - 📫 **heroprotagonist32@gmail.com**

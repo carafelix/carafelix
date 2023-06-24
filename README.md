@@ -6,7 +6,7 @@
 
 - 🌱 Code speaking currently learning **JavaScript & Sass**
 - 💻 Want to learn: React, TS, NodeJS, Next.js
-- 🎷 4 times a week neighbor sleeptime disruptor — Nigthly Sax player
+- 🎷 4 Times a week neighbor sleeptime disruptor — Nigthly Sax player
 - 🇩🇪 Täglicher Deutsch Studieren — A1
 - 👨‍💻 Portafolio placeholder 🇨🇱
 - 📫 **heroprotagonist32@gmail.com**

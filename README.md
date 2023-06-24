@@ -4,6 +4,8 @@
 
 ## My name is Martin :P
 
+Self-taught here an there
+
 <p> <em>"Read the classics, then the classics, and finally, the classics."</em> </p>
 
 ### Learning

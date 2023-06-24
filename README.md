@@ -2,12 +2,20 @@
 <h3 align="center">A longlife learner devoted primarely to Writing & Coding!</h3>
 <br>
 
+#### Maximum
+
 <p> <em>Read the classics, then the classics, and finally, the classics.</em> </p>
+
+### Learning
 
 - 🌱 Code speaking currently learning **JavaScript & Sass**
 - 💻 Want to learn: React, TS, NodeJS, Next.js
 - 🎷 4 Times a week neighbor sleeptime disruptor — Nigthly Sax player
 - 🇩🇪 Täglicher Deutsch Studieren — A1
+- 📐 Revisiting Math from the ground up!
+
+  ## Reach me
+  
 - 👨‍💻 Portafolio placeholder 🇨🇱
 - 📫 **heroprotagonist32@gmail.com**
 

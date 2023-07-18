@@ -10,7 +10,7 @@ Self-taught here an there for various things. [Former Lichess Puzzle addict](htt
 
 - 🌱 **JavaScript, TS, Sass**
 - 🎷 4 Times a week neighbor sleeptime disruptor — Nigthly Sax player
-- 🇩🇪 Neuer Deutsch Studieren — A1
+- 🇩🇪 Deutsch Studieren
 - 📐 Revisiting Math :)
 - 🧗 Enjoy Climbing
 

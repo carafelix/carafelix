@@ -8,13 +8,14 @@ Self-taught here an there for various things. [Former Lichess Puzzle addict](htt
 
 ### Learning
 
-- 🌱 **JavaScript & Sass**
+- 🌱 **JavaScript, TS, Sass**
 - 🎷 4 Times a week neighbor sleeptime disruptor — Nigthly Sax player
-- 🇩🇪 Täglicher Deutsch Studieren — A1
-- 📐 Revisiting Math from the ground up!
+- 🇩🇪 Neuer Deutsch Studieren — A1
+- 📐 Revisiting Math :)
+- 🧗 Enjoy Climbing
 
 ### Want to learn
-- 💻 React, TS, NodeJS, Next.js
+- 💻 React, NodeJS, Next.js
 
 ## Reach me
   

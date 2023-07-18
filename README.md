@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">I like learning stuff.</h3>
+<h1 align="center">I'm Martin</h1>
+<h3 align="center">and I like learning stuff.</h3>
 <br>
 
 Self-taught here an there for various things. [Former Lichess Puzzle addict](https://lichess.org/@/veet) :x

@@ -1,21 +1,10 @@
-<h1 align="center">I'm Martin</h1>
-<h3 align="center">and I like learning stuff.</h3>
+<h1 align="center">Exijo ser un Héroe,</h1>
+<h3 align="center">soy un simple auditor.</h3>
 <br>
 
 Self-taught here an there for various things. [Former Lichess Puzzle addict](https://lichess.org/@/veet) :x
 
 <p> <em>"Read the classics, then the classics, and finally, the classics."</em> </p>
-
-### Learning
-
-- 🌱 **JavaScript, TS, Sass**
-- 🎷 4 Times a week neighbor sleeptime disruptor — Nigthly Sax player
-- 🇩🇪 Deutsch Studieren
-- 📐 Revisiting Math :)
-- 🧗 Enjoy Climbing
-
-### Want to learn
-- 💻 React, NodeJS, Next.js
 
 ## Reach me
   

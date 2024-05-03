@@ -15,22 +15,14 @@ Self-taught here an there for various things. [Former Lichess Puzzle addict](htt
 - [Gamecube Controller Enthusiast](https://www.instagram.com/veet_labs/)
 
 
-<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,css,git,react,nodejs,deno,webpack,cloudflare,workers,mongodb,vscode,linux" />      
+</p>
+<p align="center">
+  <a href="https://https://mochajs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" width="50" heigth="50"/> </a>
+  <a href="https://https://pptr.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" width="50" heigth="50" /> </a>
+  <a href="https://hono.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/honojs/hono/d44be955c0d3f24ebd9bbe574a07251fea054567/docs/images/hono-logo.svg" width="42" heigth="42" /></a> 
+  <a href="https://grammy.dev/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/81446018?s=200&v=4" width="42" heigth="42" /></a> 
+  
+</p>
 <p align="center"> <a href="https://www.codewars.com/users/carafelix"> <img src="https://www.codewars.com/users/carafelix/badges/large"/> </a> </p>
-
-
-
-<!--
-**carafelix/carafelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

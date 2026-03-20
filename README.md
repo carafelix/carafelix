@@ -1,13 +1,17 @@
   <h1 align="center">Exijo ser un Héroe, <span><h6>soy un simple auditor.</h6></span></h1>
 <br>
+
+<p align="center">
+  <em>“Read the classics, then the classics, and finally, the classics.”</em>
+</p>
+
+<div align="center">
+  <img src="https://github.com/carafelix/terminal-curriculum/raw/refs/heads/main/crt.gif" />
+</div>
+
 <p align="center">
   Self-taught here an there for various things.
 </p>
-<p align="center">
-  <em>"Read the classics, then the classics, and finally, the classics."</em>
-</p>
-<br>
-<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,css,git,react,workers,mongodb,remix,astro,vscode,linux" /> 
